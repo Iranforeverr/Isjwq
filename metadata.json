@@ -1,0 +1,6 @@
+{
+  "name": "Gold Price Forecast & Multi-Horizon Analysis",
+  "description": "سامانه جامع تحلیل تکنیکال و فاندامنتال و پیش‌بینی هوشمند قیمت طلا و سکه برای روز بعد، هفته بعد، ماه بعد و دوره‌های میان‌مدت و بلندمدت با هوش مصنوعی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
